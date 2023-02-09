@@ -1,0 +1,8 @@
+{
+    "name": "cpp-hello-training",
+    "version-string": "unversioned",
+    "homepage": "https://github.com/rastringer/vertex-ai-samples/cpp_on_vertex",
+    "description": [
+      "Shows how to run a custom C++ container application on Vertex Training."
+    ]
+  }
